@@ -12,7 +12,7 @@ author_profile: true
 
 ---
 
-## Education
+## Education | 教育
 
 | Time 时间 | Diploma 学位 | School 院校 |
 |:---|:---|:---|
