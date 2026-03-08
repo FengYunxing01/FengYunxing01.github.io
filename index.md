@@ -7,10 +7,15 @@ author:
   name   : "冯云幸"
   avatar : "/assets/images/avatar.png"
   bio    : "哈尔滨工业大学 & 香港理工大学"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:yourname@hit.edu.cn"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yourusername"
 classes: wide
 excerpt: "哈尔滨工业大学 & 香港理工大学联合培养博士生，专注于城市韧性研究。"
-header:
-  caption: "Research in Urban Resilience"
 ---
 
 ## ▾ About Me | 自述
