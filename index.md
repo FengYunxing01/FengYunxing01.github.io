@@ -1,15 +1,21 @@
 ---
 layout: about
 title: "FENG Yunxing | 冯云幸"
-permalink: 
-💌 [fyxokk@163.com](mailto:fyxokk@163.com)  
-📱 微信公众号：哈鹿酱
+permalink: /
 author_profile: true
 ---
 
 ## ▾ About Me | 自述
 
-*(这里是你新增的自述版块。由于照片和联系方式已经在左侧显示，这里可以专注于介绍你的研究愿景，例如：本人目前在哈尔滨工业大学与香港理工大学进行联合培养深造，致力于建筑结构抗震与非结构构件安全研究...)*
+*(这里是你要求的自述版块内容)*
+本人目前在哈尔滨工业大学与香港理工大学进行联合培养深造，致力于建筑结构抗震与非结构构件安全研究。
+
+---
+
+# FENG Yunxing | 冯云幸
+
+💌 [fyxokk@163.com](mailto:fyxokk@163.com)  
+📱 微信公众号：哈鹿酱
 
 ---
 
