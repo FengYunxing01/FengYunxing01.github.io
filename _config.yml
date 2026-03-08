@@ -15,7 +15,6 @@ author:
   uri: "https://fengyunxing01.github.io"
   googlescholar: "在这里填你的谷歌学术主页ID" # 可选
   github: "fengyunxing01"
-  wechat: "哈鹿酱"
 
 # 构建设置
 markdown: kramdown
