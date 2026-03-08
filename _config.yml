@@ -2,28 +2,28 @@
 title: "FENG Yunxing | 冯云幸"
 name: "冯云幸 (FENG Yunxing)"
 description: "Ph.D. Student at HIT & PolyU | Structural Engineering"
-url: "https://fengyunxing01.github.io" # 你的网址
-baseurl: "" # 保持为空
+url: "https://fengyunxing01.github.io"
+baseurl: "" # 如果你的仓库名不是 fengyunxing01.github.io，请填入 /仓库名
 
-# 个人社交信息 (会显示在左侧边栏)
+# 个人资料设置 (Minimal Mistakes 规范)
 author:
-  name: "冯云幸"
-  avatar: "/images/bio-photo.jpg" # 如果有照片，放在 images 文件夹下
-  bio: "哈工大/理大 联合培养博士生"
+  name: "冯云幸 (FENG Yunxing)"
+  avatar: "/images/bio-photo.jpg" # 确保 images 文件夹下有这张照片
+  bio: "哈工大 / 香港理大 联合培养博士生"
   location: "Harbin / Hong Kong"
-  email: "fyxokk@163.com"
-  uri: "https://fengyunxing01.github.io"
-  googlescholar: "在这里填你的谷歌学术主页ID" # 可选
-  github: "fengyunxing01"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:fyxokk@163.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/fengyunxing01"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/" # 替换为你的主页链接
 
-# 构建设置
-markdown: kramdown
-highlighter: rouge
-permalink: /:categories/:title/
-paginate: 5
-paginate_path: /page:num/
-
-# 插件列表 (必须包含这些)
+# 主题与插件
+theme: minimal-mistakes-jekyll # 必须声明主题
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -32,11 +32,24 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# 主题特定设置
+# 布局设置
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single" # 使用 single 布局才会显示侧边栏
+      author_profile: true # 强制开启作者信息栏
+
+# 构建设置
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+
 include:
   - _pages
-  
-# 排除不需要的文件
 exclude:
   - Gemfile
   - Gemfile.lock
