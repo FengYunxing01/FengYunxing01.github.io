@@ -1,36 +1,50 @@
-#  FENG Yunxing | 冯云幸
+---
+layout: default
+title: FENG Yunxing | 冯云幸
+---
 
-💌 fyxokk@163.com
-微信公众号：哈鹿酱
+# FENG Yunxing | 冯云幸
 
-# Education
+💌 [fyxokk@163.com](mailto:fyxokk@163.com)  
+📱 微信公众号：哈鹿酱
 
-2022/09 till now          Ph.D.                Harbin Institute of Technology
-                          博士                  哈尔滨工业大学
-2025/01-2027/01           Ph.D.                The Hong Kong Polytechnic University
-                          博士                  香港理工大学
-2019/09 - 2022/06         M.E.                 Institute of Engineering Mechanics, CEA
-                          硕士                   中国地震局工程力学研究所
-2012/09 -2016/06          B.E.                  Hunan University
-                          学士                   湖南大学
-2024/05/03-2024/05/16     Short-Term School     São Paulo School of Advanced Science on Structural Safety
-                          短期学校（全奖）        圣保罗大学（巴西）
+---
 
-### 荣誉 | Awards
+## Education
 
-2024/01                   2022年度黑龙江省力学优秀硕士学位论文
+| 时间 | 学位 | 院校 |
+|:---|:---|:---|
+| 2022/09 - 至今 | **博士 | Ph.D.** | **哈尔滨工业大学** <br> Harbin Institute of Technology |
+| 2025/01 - 2027/01 | **博士 | Ph.D.** | **香港理工大学** <br> The Hong Kong Polytechnic University |
+| 2019/09 - 2022/06 | **硕士 | M.E.** | **中国地震局工程力学研究所** <br> Institute of Engineering Mechanics, CEA |
+| 2012/09 - 2016/06 | **学士 | B.E.** | **湖南大学** <br> Hunan University |
+| 2024/05/03 - <br> 2024/05/16 | **短期学校** <br> Short-Term School | **圣保罗大学（巴西）** <br> São Paulo School of Advanced Science on Structural Safety |
 
-### 英文期刊论文 | Journal articles in English
+---
 
-1. **Feng YX, Lu DG*. [Investigation of the influence of damage between nonstructural and structural components on earthquake loss evaluation.](https://onlinelibrary.wiley.com/doi/10.1002/eqe.70022) *Earthquake Engineering and Structural Dynamics*, 54(12), 2025: 3185-3201.**
-2. **Feng YX, Li QQ, Qu Z*. [Frequency-sensitivity of the seismic damage to suspended ceilings.](https://doi.org/10.1002/eqe.3861) *Earthquake Engineering and Structural Dynamics*, 52(7), 2023: 2006-2024.**
+## ▾ 荣誉 | Awards
 
-### 中文期刊论文 | Journal articles in Chinese
+**2024/01** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022年度黑龙江省力学优秀硕士学位论文
 
-1. 吕大刚，王丛，董尧，冯云幸. [建筑结构一致风险抗震设计理论研究进展](https://kns.cnki.net/kcms2/article/abstract?v=8XtZWovJaIS4VCya_wjfI8rOvi-lhSMzskpIqo2IUIYKMGpCrft4DJ85E8CwRnTTMKNvFvlfOXDuqGWhLeBRbIGn6gTP6SHn1ny_E-RWqTsa_rWi8atmzQ-0mQmxVfpnhPE41GDD-UXRqdMdDJn3XHjb2qPVdhzl6T8z0Exms16QqVI31Oa8KlzsYiUXaVgzzgHR-47NE_c9ska9YbaVEzpMN3V8kgXs&uniplatform=NZKPT&language=CHS). 建筑结构学报,45(10), 2024:1-30.
-   |LU Dagang, WANG Cong, DONG Yao, FENG Yunxing. Research progress of uniform-risk seismic design theory of building structures. Journal of Building Structures, 45(10), 2024:1-30.      
-3. 冯云幸, 曲哲*, 李戚齐. [吊顶地震时程反应分析的二维简化模型](https://doi.org/10.13409/j.cnki.jdpme.20211111020). 防灾减灾工程学报, 42(6), 2022: 1222-1227.
-   | Feng YX, Qu Z*, Li QQ. A simplified two-dimensional model for the seismic response history analysis of suspended ceilings. *Journal of Disaster Prevention and Mitigation    Engineering*, 42(6), 2022: 1222-1227.
+---
 
-### 国际会议论文 | Conference papers
+## ▾ 英文期刊论文 | Journal articles in English
+
+1. **Feng YX**, Lu DG*. [Investigation of the influence of damage between nonstructural and structural components on earthquake loss evaluation.](https://onlinelibrary.wiley.com/doi/10.1002/eqe.70022) *Earthquake Engineering and Structural Dynamics*, 54(12), 2025: 3185-3201.
+2. **Feng YX**, Li QQ, Qu Z*. [Frequency-sensitivity of the seismic damage to suspended ceilings.](https://doi.org/10.1002/eqe.3861) *Earthquake Engineering and Structural Dynamics*, 52(7), 2023: 2006-2024.
+
+---
+
+## ▾ 中文期刊论文 | Journal articles in Chinese
+
+1. 吕大刚，王丛，董尧，**冯云幸**. [建筑结构一致风险抗震设计理论研究进展](https://kns.cnki.net/kcms2/article/abstract?v=8XtZWovJaIS4VCya_wjfI8rOvi-lhSMzskpIqo2IUIYKMGpCrft4DJ85E8CwRnTTMKNvFvlfOXDuqGWhLeBRbIGn6gTP6SHn1ny_E-RWqTsa_rWi8atmzQ-0mQmxVfpnhPE41GDD-UXRqdMdDJn3XHjb2qPVdhzl6T8z0Exms16QqVI31Oa8KlzsYiUXaVgzzgHR-47NE_c9ska9YbaVEzpMN3V8kgXs&uniplatform=NZKPT&language=CHS). **建筑结构学报**, 45(10), 2024: 1-30.  
+   *| LU Dagang, WANG Cong, DONG Yao, FENG Yunxing. Research progress of uniform-risk seismic design theory of building structures. Journal of Building Structures, 45(10), 2024: 1-30.*
+
+2. **冯云幸**, 曲哲*, 李戚齐. [吊顶地震时程反应分析的二维简化模型](https://doi.org/10.13409/j.cnki.jdpme.20211111020). **防灾减灾工程学报**, 42(6), 2022: 1222-1227.  
+   *| Feng YX, Qu Z*, Li QQ. A simplified two-dimensional model for the seismic response history analysis of suspended ceilings. Journal of Disaster Prevention and Mitigation Engineering, 42(6), 2022: 1222-1227.*
+
+---
+
+## ▾ 国际会议论文 | Conference papers
+*(此处可根据需要补充内容)*
 
