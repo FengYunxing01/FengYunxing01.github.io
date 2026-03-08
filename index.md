@@ -1,8 +1,9 @@
 ---
-layout: about
+layout: single
 title: "FENG Yunxing | 冯云幸"
 permalink: /
 author_profile: true
+classes: wide
 ---
 
 ## ▾ About Me | 自述
@@ -15,11 +16,11 @@ author_profile: true
 
 | Time 时间 | Diploma 学位 | School 院校 |
 |:---|:---|:---|
-| 2022/09 - 至今 | Ph.D. <br> 博士| **Harbin Institute of Technology** <br> 哈尔滨工业大学 |
-| 2025/01 - 2027/01 | Ph.D. <br> 博士 | **The Hong Kong Polytechnic University** <br> 香港理工大学 |
-| 2019/09 - 2022/06 | M.E. <br> 硕士 | **Institute of Engineering Mechanics, CEA** <br> 中国地震局工程力学研究所 |
-| 2012/09 - 2016/06 | B.E. <br> 学士 | **Hunan University** <br> 湖南大学 |
-| 2024/05/03 - <br> 2024/05/16 | **Short-Term School** <br> 短期学校| **São Paulo School of Advanced Science on Structural Safety** <br> 圣保罗大学（巴西）|
+| 2022/09 - 至今 | **Ph.D. 博士** | **Harbin Institute of Technology** <br> 哈尔滨工业大学 |
+| 2025/01 - 2027/01 | **Ph.D. 博士** | **The Hong Kong Polytechnic University** <br> 香港理工大学 |
+| 2019/09 - 2022/06 | **M.E. 硕士** | **Institute of Engineering Mechanics, CEA** <br> 中国地震局工程力学研究所 |
+| 2012/09 - 2016/06 | **B.E. 学士** | **Hunan University** <br> 湖南大学 |
+| 2024/05/03 - <br> 2024/05/16 | **Short-Term School** <br> 短期学校 | **São Paulo School of Advanced Science on Structural Safety** <br> 圣保罗大学（巴西） |
 
 ---
 
@@ -38,7 +39,7 @@ author_profile: true
 
 ## ▾ Journal articles in Chinese | 中文期刊论文
 
-1. 吕大刚，王丛，董尧，**冯云幸**. [建筑结构一致风险抗震设计理论研究进展](https://kns.cnki.net/kcms2/article/abstract?v=...). **建筑结构学报**, 45(10), 2024: 1-30.  
+1. 吕大刚, 王丛, 董尧, **冯云幸**. [建筑结构一致风险抗震设计理论研究进展](https://kns.cnki.net/kcms2/article/abstract?v=...). **建筑结构学报**, 45(10), 2024: 1-30.  
    *| LU Dagang, WANG Cong, DONG Yao, FENG Yunxing. Research progress of uniform-risk seismic design theory of building structures. Journal of Building Structures, 45(10), 2024: 1-30.*
 
 2. **冯云幸**, 曲哲*, 李戚齐. [吊顶地震时程反应分析的二维简化模型](https://doi.org/10.13409/j.cnki.jdpme.20211111020). **防灾减灾工程学报**, 42(6), 2022: 1222-1227.  
@@ -46,5 +47,6 @@ author_profile: true
 
 ---
 
-## ▾ 国际会议论文Conference papers | 国际会议论文
+## ▾ Conference papers | 国际会议论文
+
 *(此处可根据需要补充内容)*
