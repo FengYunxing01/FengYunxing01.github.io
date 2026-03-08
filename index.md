@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "FENG Yunxing | 冯云幸"
+title: ""
 permalink: /
 author_profile: true
 hide_title: true
