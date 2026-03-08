@@ -1,3 +1,44 @@
-remote_theme: pages-themes/hacker@v0.2.0
+# 站点基本信息
+title: "FENG Yunxing | 冯云幸"
+name: "冯云幸 (FENG Yunxing)"
+description: "Ph.D. Student at HIT & PolyU | Structural Engineering"
+url: "https://fengyunxing01.github.io" # 你的网址
+baseurl: "" # 保持为空
+
+# 个人社交信息 (会显示在左侧边栏)
+author:
+  name: "冯云幸"
+  avatar: "/images/bio-photo.jpg" # 如果有照片，放在 images 文件夹下
+  bio: "哈工大/理大 联合培养博士生"
+  location: "Harbin / Hong Kong"
+  email: "fyxokk@163.com"
+  uri: "https://fengyunxing01.github.io"
+  googlescholar: "在这里填你的谷歌学术主页ID" # 可选
+  github: "fengyunxing01"
+  wechat: "哈鹿酱"
+
+# 构建设置
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+
+# 插件列表 (必须包含这些)
 plugins:
-  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# 主题特定设置
+include:
+  - _pages
+  
+# 排除不需要的文件
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
