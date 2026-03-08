@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "FENG Yunxing | 冯云幸"
 permalink: /
 author_profile: true
 hide_title: true
@@ -21,6 +21,11 @@ author:
 classes: wide
 excerpt: "哈尔滨工业大学 & 香港理工大学联合培养博士生，专注于城市韧性研究。"
 ---
+
+<style>
+  .page__title { display: none !important; }
+  .page__inner { margin-top: 0; }
+</style>
 
 ## ▾ About Me | 自述
 
