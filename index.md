@@ -4,7 +4,7 @@ title: "FENG Yunxing | 冯云幸"
 permalink: /
 author_profile: true 
 author:
-  name   : "冯云幸"
+  name   : "FENG Yunxing | 冯云幸"
   avatar : "/assets/images/avatar.png"
   bio    : "哈尔滨工业大学 & 香港理工大学"
   links:
