@@ -7,7 +7,6 @@ author_profile: true
 
 ## ▾ About Me | 自述
 
-*(这里是你要求的自述版块内容)*
 本人目前在哈尔滨工业大学与香港理工大学进行联合培养深造，致力于建筑结构抗震与非结构构件安全研究。
 
 ---
@@ -17,7 +16,7 @@ author_profile: true
 | Time 时间 | Diploma 学位 | School 院校 |
 |:---|:---|:---|
 | 2022/09 - 至今 | Ph.D. <br> 博士| **Harbin Institute of Technology** <br> 哈尔滨工业大学 |
-| 2025/01 - 2027/01 |  Ph.D. <br> 博士 | **The Hong Kong Polytechnic University** <br> 香港理工大学 |
+| 2025/01 - 2027/01 | Ph.D. <br> 博士 | **The Hong Kong Polytechnic University** <br> 香港理工大学 |
 | 2019/09 - 2022/06 | M.E. <br> 硕士 | **Institute of Engineering Mechanics, CEA** <br> 中国地震局工程力学研究所 |
 | 2012/09 - 2016/06 | B.E. <br> 学士 | **Hunan University** <br> 湖南大学 |
 | 2024/05/03 - <br> 2024/05/16 | **Short-Term School** <br> 短期学校| **São Paulo School of Advanced Science on Structural Safety** <br> 圣保罗大学（巴西）|
