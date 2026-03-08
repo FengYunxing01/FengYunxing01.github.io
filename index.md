@@ -2,11 +2,15 @@
 layout: single
 title: "FENG Yunxing | 冯云幸"
 permalink: /
-author_profile: true # 确保在 _config.yml 中配置了作者信息
+author_profile: true 
+author:
+  name   : "冯云幸"
+  avatar : "/assets/images/avatar.png"
+  bio    : "哈尔滨工业大学 & 香港理工大学"
 classes: wide
 excerpt: "哈尔滨工业大学 & 香港理工大学联合培养博士生，专注于城市韧性研究。"
 header:
-  caption: "Research in Seismic Engineering"
+  caption: "Research in Urban Resilience"
 ---
 
 ## ▾ About Me | 自述
