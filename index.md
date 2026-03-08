@@ -2,18 +2,20 @@
 layout: single
 title: "FENG Yunxing | 冯云幸"
 permalink: /
+# 关键设置：将作者信息栏移至右侧（部分版本支持 sidebar_position）
+sidebar_position: right 
 author_profile: true
 ---
 
 ## ▾ About Me | 自述
 
-*(此处可以填写你的研究兴趣、个人简介或教育愿景，例如：本人目前在哈尔滨工业大学与香港理工大学进行联合培养深造，致力于建筑结构抗震与非结构构件安全研究...)*
+*(此处填写你的研究兴趣、个人简介。作为哈工大与理大的联培博士，你可以在此补充两校合作背景或目前在港/在哈的研究重心。)*
 
 ---
 
 # FENG Yunxing | 冯云幸
 
-💌 [fyxokk@163.com](mailto:fyxokk@163.com)  
+💌 [fyxokk@163.com](mailto:fyxokk@163.com)  
 📱 微信公众号：哈鹿酱
 
 ---
@@ -23,7 +25,7 @@ author_profile: true
 | Time 时间 | Diploma 学位 | School 院校 |
 |:---|:---|:---|
 | 2022/09 - 至今 | Ph.D. <br> 博士| **Harbin Institute of Technology** <br> 哈尔滨工业大学 |
-| 2025/01 - 2027/01 |  Ph.D. <br> 博士 | **The Hong Kong Polytechnic University** <br> 香港理工大学 |
+| 2025/01 - 2027/01 |  Ph.D. <br> 博士 | **The Hong Kong Polytechnic University** <br> 香港理工大学 |
 | 2019/09 - 2022/06 | M.E. <br> 硕士 | **Institute of Engineering Mechanics, CEA** <br> 中国地震局工程力学研究所 |
 | 2012/09 - 2016/06 | B.E. <br> 学士 | **Hunan University** <br> 湖南大学 |
 | 2024/05/03 - <br> 2024/05/16 | **Short-Term School** <br> 短期学校| **São Paulo School of Advanced Science on Structural Safety** <br> 圣保罗大学（巴西）|
@@ -45,7 +47,7 @@ author_profile: true
 
 ## ▾ Journal articles in Chinese | 中文期刊论文
 
-1. 吕大刚，王丛，董尧，**冯云幸**. [建筑结构一致风险抗震设计理论研究进展](https://kns.cnki.net/kcms2/article/abstract?v=8XtZWovJaIS4VCya_wjfI8rOvi-lhSMzskpIqo2IUIYKMGpCrft4DJ85E8CwRnTTMKNvFvlfOXDuqGWhLeBRbIGn6gTP6SHn1ny_E-RWqTsa_rWi8atmzQ-0mQmxVfpnhPE41GDD-UXRqdMdDJn3XHjb2qPVdhzl6T8z0Exms16QqVI31Oa8KlzsYiUXaVgzzgHR-47NE_c9ska9YbaVEzpMN3V8kgXs&uniplatform=NZKPT&language=CHS). **建筑结构学报**, 45(10), 2024: 1-30.  
+1. 吕大刚，王丛，董尧，**冯云幸**. [建筑结构一致风险抗震设计理论研究进展](https://kns.cnki.net/kcms2/article/abstract?v=...). **建筑结构学报**, 45(10), 2024: 1-30.  
    *| LU Dagang, WANG Cong, DONG Yao, FENG Yunxing. Research progress of uniform-risk seismic design theory of building structures. Journal of Building Structures, 45(10), 2024: 1-30.*
 
 2. **冯云幸**, 曲哲*, 李戚齐. [吊顶地震时程反应分析的二维简化模型](https://doi.org/10.13409/j.cnki.jdpme.20211111020). **防灾减灾工程学报**, 42(6), 2022: 1222-1227.  
