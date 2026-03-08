@@ -2,7 +2,7 @@
 layout: single
 title: "FENG Yunxing | 冯云幸"
 permalink: /
-author_profile: true 
+author_profile: true
 hide_title: true
 author:
   name   : "FENG Yunxing | 冯云幸"
