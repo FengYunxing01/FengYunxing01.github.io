@@ -10,7 +10,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "fyxokk@163.com"
+      url: "mailto:fyxokk@163.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/FengYunxing01"
