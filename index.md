@@ -10,13 +10,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:yourname@hit.edu.cn"
+      url: "fyxokk@163.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/FengYunxing01"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/"
+      url: "https://scholar.google.com/citations?hl=en&user=2Z1uM3AAAAAJ"
 classes: wide
 excerpt: "哈尔滨工业大学 & 香港理工大学联合培养博士生，专注于城市韧性研究。"
 ---
