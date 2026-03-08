@@ -12,7 +12,7 @@ title: FENG Yunxing | 冯云幸
 
 ## Education
 
-| 时间 | 学位 | 院校 |
+| Time 时间 | Deploma 学位 | School 院校 |
 |:---|:---|:---|
 | 2022/09 - 至今 | Ph.D. <br> 博士| **Harbin Institute of Technology** <br> 哈尔滨工业大学 |
 | 2025/01 - 2027/01 |  Ph.D. <br> 博士 | **The Hong Kong Polytechnic University** <br> 香港理工大学 |
