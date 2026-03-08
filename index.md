@@ -12,13 +12,6 @@ author_profile: true
 
 ---
 
-# FENG Yunxing | 冯云幸
-
-💌 [fyxokk@163.com](mailto:fyxokk@163.com)  
-📱 微信公众号：哈鹿酱
-
----
-
 ## Education
 
 | Time 时间 | Diploma 学位 | School 院校 |
