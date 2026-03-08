@@ -14,6 +14,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yourusername"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/"
 classes: wide
 excerpt: "哈尔滨工业大学 & 香港理工大学联合培养博士生，专注于城市韧性研究。"
 ---
