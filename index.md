@@ -30,6 +30,9 @@ excerpt: "哈尔滨工业大学 & 香港理工大学联合培养博士生，专�
 <style>
   .page__title { display: none !important; }
   .page__inner { margin-top: 0; }
+  .publications ol {
+    list-style-type: decimal !important;
+  }
 </style>
 ### ▾ About Me | 自述
 
