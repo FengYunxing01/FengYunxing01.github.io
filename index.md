@@ -27,32 +27,10 @@ author:
 classes: wide
 excerpt: "哈尔滨工业大学 & 香港理工大学联合培养博士生，专注于城市韧性研究。"
 ---
-
 <style>
-  /* 隐藏标题文字 */
-  .page__title { 
-    display: none !important; 
-  }
-
-  /* 消除内容区域顶部的所有间距 */
-  .page__inner { 
-    margin-top: 0 !important; 
-    padding-top: 0 !important; 
-  }
-
-  /* 针对 AcademicPages/Minimal Mistakes 主题的特殊修正 */
-  .page__content {
-    margin-top: 0 !important;
-  }
-
-  /* 消除标题下方可能残留的横线或边距 */
-  header {
-    margin-bottom: 0 !important;
-    padding-bottom: 0 !important;
-    border-bottom: none !important;
-  }
+  .page__title { display: none !important; }
+  .page__inner { margin-top: 0; }
 </style>
-
 ### ▾ About Me | 自述
 
 本人目前在哈尔滨工业大学与香港理工大学进行联合培养深造，致力于城市韧性研究。
