@@ -22,11 +22,6 @@ classes: wide
 excerpt: "哈尔滨工业大学 & 香港理工大学联合培养博士生，专注于城市韧性研究。"
 ---
 
-<style>
-  .page__title { display: none !important; }
-  .page__inner { margin-top: 0; }
-</style>
-
 ### ▾ About Me | 自述
 
 本人目前在哈尔滨工业大学与香港理工大学进行联合培养深造，致力于城市韧性研究。
