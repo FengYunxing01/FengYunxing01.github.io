@@ -18,6 +18,12 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?hl=en&user=2Z1uM3AAAAAJ"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate" # 如果显示不出来，请尝试 "ai ai-fw ai-researchgate"
+      url: "https://www.researchgate.net/profile/Yunxing-Feng"
+    - label: "Web of Science"
+      icon: "fas fa-fw fa-graduation-cap" # WoS通常没有专属Logo，学术界常用帽子或 "ai ai-fw ai-clarivate"
+      url: "https://www.webofscience.com/wos/author/record/PMG-8356-2026"
 classes: wide
 excerpt: "哈尔滨工业大学 & 香港理工大学联合培养博士生，专注于城市韧性研究。"
 ---
