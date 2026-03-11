@@ -62,10 +62,10 @@ excerpt: "哈尔滨工业大学 & 香港理工大学联合培养博士生，专�
 
 <ol reversed style="margin-left: 20px;">
   <li style="margin-bottom: 10px;">
-    <b>Feng YX</b>, Lu DG*. <a href="https://onlinelibrary.wiley.com/doi/10.1002/eqe.70022">Investigation of the influence of damage between nonstructural and structural components on earthquake loss evaluation.</a> <i>Earthquake Engineering and Structural Dynamics</i>, 54(12), 2025: 3185-3201.
+    <b>Feng YX</b>, Lu DG*. <a href="https://onlinelibrary.wiley.com/doi/10.1002/eqe.70022">Investigation of the influence of damage between nonstructural and structural components on earthquake loss evaluation.</a> <i>Earthquake Engineering and Structural Dynamics</i>, 2025, 54(12): 3185-3201.
   </li>
   <li style="margin-bottom: 10px;">
-    <b>Feng YX</b>, Li QQ, Qu Z*. <a href="https://doi.org/10.1002/eqe.3861">Frequency-sensitivity of the seismic damage to suspended ceilings.</a> <i>Earthquake Engineering and Structural Dynamics</i>, 52(7), 2023: 2006-2024.
+    <b>Feng YX</b>, Li QQ, Qu Z*. <a href="https://doi.org/10.1002/eqe.3861">Frequency-sensitivity of the seismic damage to suspended ceilings.</a> <i>Earthquake Engineering and Structural Dynamics</i>, 2023, 52(7): 2006-2024.
   </li>
 </ol>
 
